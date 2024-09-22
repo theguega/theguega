@@ -4,7 +4,7 @@ I'm an **engineering student** passionate about **embedded systems**, **autonomo
 
 ---
 
-### ** 🛠️ Projects **
+### 🛠️ Projects
 
 - **TurtleBot Maze Mapping (ROS)**: A project where I implement maze mapping for a TurtleBot using ROS, integrating sensors such as a camera, LiDAR, ultrasound, and odometry to explore and map unknown environments.
   
@@ -14,7 +14,7 @@ I'm an **engineering student** passionate about **embedded systems**, **autonomo
 
 ---
 
-### **🔧 Skills**
+### 🔧 Skills
 
 - **Languages**: Python, C++, MATLAB
 - **Tools & Frameworks**: Qt, Gazebo, RViz, OpenCV, ROS
