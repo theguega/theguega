@@ -16,8 +16,7 @@ I'm an **engineering student** passionate about **embedded systems**, **autonomo
 
 ### 🔧 Skills
 
-- **Languages**: Python, C++, MATLAB
-- **Tools & Frameworks**: Qt, Gazebo, RViz, OpenCV, ROS
+- **Languages**: Python, C++, MATLAB, Lua
 - **Fields**: Autonomous Systems, Robotics, Embedded Systems, Control Architecture
 
 ---
