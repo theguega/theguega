@@ -1,4 +1,4 @@
-### **Hello! I'm Théo Guegan 👋**
+### **Hi there! I'm Théo Guegan 👋**
 
 I'm an **engineering student** passionate about **embedded systems**, **autonomous technologies** and **robotics**.
 
