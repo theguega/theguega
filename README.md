@@ -64,12 +64,12 @@
 ---
 <table align=center style="width: 100%;">
     <tr>
-        <td style="text-align: left;">
+        <td>
             <a href="https://linkedin.com/in/guegan-theo" target="_blank">
                 <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="60" height="60"/>
             </a>
         </td>
-        <td style="text-align: right;">
+        <td>
             <a href="https://www.cprogramming.com/" target="_blank">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/>
             </a>
