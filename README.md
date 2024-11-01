@@ -33,7 +33,7 @@
             </p>
         </td>
         <td style="text-align: center;">
-            <img src="https://robodyne-services.com/wp-content/uploads/2021/10/turtlebot3.png" alt="TurtleBot" style="height: 200px; width: auto; object-fit: cover;">
+            <img src="https://robodyne-services.com/wp-content/uploads/2021/10/turtlebot3.png" alt="TurtleBot" style="width: auto; object-fit: cover;">
         </td>
     </tr>
     <tr>
@@ -44,7 +44,7 @@
             </p>
         </td>
         <td style="text-align: center;">
-            <img src="https://github.com/theguega/Autonomous-Vehicles-Decisions-Control/blob/main/doc/doc1.jpg?raw=true" alt="Project Image" style="height: 200px; width: auto; object-fit: cover;">
+            <img src="https://github.com/theguega/Autonomous-Vehicles-Decisions-Control/blob/main/doc/doc1.jpg?raw=true" alt="Project Image" style="width: auto; object-fit: cover;">
         </td>
     </tr>
     <tr>
@@ -55,7 +55,7 @@
             </p>
         </td>
         <td style="text-align: center;">
-            <img src="https://github.com/theguega/AI-for-Go-like-game/blob/main/doc/dodo.jpg?raw=true" alt="Project Image" style="height: 200px; width: auto; object-fit: cover;">
+            <img src="https://github.com/theguega/AI-for-Go-like-game/blob/main/doc/dodo.jpg?raw=true" alt="Project Image" style="width: auto; object-fit: cover;">
         </td>
     </tr>
 </table>
