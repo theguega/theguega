@@ -62,7 +62,7 @@
 <br>
 
 ---
-<table style="width: 100%;">
+<table align=center style="width: 100%;">
     <tr>
         <td style="text-align: left;">
             <a href="https://linkedin.com/in/guegan-theo" target="_blank">
