@@ -3,7 +3,7 @@
 
 ---
 
-<h2 align="center"> 🔭 See my Projects 🔭 </h2>
+<h2 align="center"> 🔭 Projects 🔭 </h2>
 
 <br>
 <br>
@@ -55,7 +55,7 @@
             </p>
         </td>
         <td style="text-align: center;">
-            <img src="https://github.com/theguega/AI-for-Go-like-game/blob/main/doc/dodo.jpg?raw=true" alt="Project Image" style="width: auto; object-fit: cover;">
+            <img src="https://github.com/theguega/AI-for-Go-like-game/blob/main/doc/dodo.jpg?raw=true" alt="Project Image" style="max-heignt: 200px; width: auto; object-fit: cover;">
         </td>
     </tr>
 </table>
