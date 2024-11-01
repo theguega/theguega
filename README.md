@@ -22,7 +22,7 @@
             </p>
         </td>
         <td style="text-align: center;">
-            <img src="https://www.thalesgroup.com/sites/default/files/prezly/images/Design%20sans%20titre%20%281%29_0.png" alt="DroneSwarm Image" style="height: 200px; width: auto; object-fit: cover;">
+            <img src="https://www.thalesgroup.com/sites/default/files/prezly/images/Design%20sans%20titre%20%281%29_0.png" alt="DroneSwarm Image" style="width: auto; object-fit: cover;">
         </td>
     </tr>
     <tr>
