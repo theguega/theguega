@@ -100,3 +100,5 @@
         </td>
     </tr>
 </table>
+
+<!-- Put a lot of effort in this README, hope you will enjoy :) -->
