@@ -19,7 +19,7 @@
             </p>
         </td>
         <td style="text-align: center;">
-            <img src="https://www.thalesgroup.com/sites/default/files/prezly/images/Design%20sans%20titre%20%281%29_0.png" alt="DroneSwarm Image" style="width: auto; object-fit: cover;">
+            <a href="https://www.thalesgroup.com/en/worldwide/defence-and-security/press_release/thales-demonstrates-its-capacity-deploy-drone-swarms"><img src="https://www.thalesgroup.com/sites/default/files/prezly/images/Design%20sans%20titre%20%281%29_0.png" alt="DroneSwarm Image" style="width: auto; object-fit: cover;"></a>
         </td>
     </tr>
     <tr>
@@ -30,7 +30,7 @@
             </p>
         </td>
         <td style="text-align: center;">
-            <img src="https://robodyne-services.com/wp-content/uploads/2021/10/turtlebot3.png" alt="TurtleBot" style="width: auto; object-fit: cover;">
+            <a href="https://github.com/theguega/Ros-Maze-Mapping"><img src="https://robodyne-services.com/wp-content/uploads/2021/10/turtlebot3.png" alt="TurtleBot" style="width: auto; object-fit: cover;"></a>
         </td>
     </tr>
     <tr>
@@ -41,7 +41,7 @@
             </p>
         </td>
         <td style="text-align: center;">
-            <img src="https://github.com/theguega/Autonomous-Vehicles-Decisions-Control/blob/main/doc/doc1.jpg?raw=true" alt="Project Image" style="width: auto; object-fit: cover;">
+            <a href="https://github.com/theguega/Autonomous-Vehicles-Decisions-Control"><img src="https://github.com/theguega/Autonomous-Vehicles-Decisions-Control/blob/main/doc/doc1.jpg?raw=true" alt="Project Image" style="width: auto; object-fit: cover;"></a>
         </td>
     </tr>
     <tr>
@@ -52,7 +52,7 @@
             </p>
         </td>
         <td style="text-align: center;">
-            <img src="https://github.com/theguega/AI-for-Go-like-game/blob/main/doc/dodo.jpg?raw=true" alt="Project Image" style="max-width: 100%; height: auto; object-fit: cover;">
+            <a href="https://github.com/theguega/AI-for-Go-like-game"><img src="https://github.com/theguega/AI-for-Go-like-game/blob/main/doc/dodo.jpg?raw=true" alt="Project Image" style="max-width: 100%; height: auto; object-fit: cover;"></a>
         </td>
     </tr>
     <tr>
