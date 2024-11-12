@@ -55,6 +55,17 @@
             <img src="https://github.com/theguega/AI-for-Go-like-game/blob/main/doc/dodo.jpg?raw=true" alt="Project Image" style="max-width: 100%; height: auto; object-fit: cover;">
         </td>
     </tr>
+    <tr>
+        <td style="width: 65%;">
+            <h3>Local LLM Webserver</h3>
+            <p>
+                A simple web-server to run local LLMs using Rust and Next.js + Tailwind
+            </p>
+        </td>
+        <td style="text-align: center;">
+            <img src="https://github.com/theguega/Local-LLM-WebServer/blob/main/frontend/public/favico.png" alt="Project Image" style="max-width: 100%; height: auto; object-fit: cover;">
+        </td>
+    </tr>
 </table>
 
 <br>
