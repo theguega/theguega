@@ -63,7 +63,7 @@
             </p>
         </td>
         <td style="text-align: center;">
-            <img src="https://github.com/theguega/Local-LLM-WebServer/blob/main/frontend/public/favico.png" alt="Project Image" style="max-width: 100%; height: auto; object-fit: cover;">
+            <a href="https://github.com/theguega/Local-LLM-WebServer"><img src="https://github.com/theguega/Local-LLM-WebServer/blob/main/frontend/public/favico.png" alt="Project Image" style="max-width: 100%; height: auto; object-fit: cover;"></a>
         </td>
     </tr>
 </table>
