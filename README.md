@@ -111,4 +111,11 @@
     </tr>
 </table>
 
+---
+
+<h3>Actual courses i'm following : </h3>
+
+- [Writing An Interpreter In Go | Thorsten Ball](https://interpreterbook.com/)
+- [The Adventures of OS: Making a RISC-V Operating System using Rust | Stephen Marz](https://osblog.stephenmarz.com/index.html)
+
 <!-- Put a lot of effort in this README, hope you will enjoy :) -->
