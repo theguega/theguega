@@ -104,8 +104,14 @@
             <a href="https://www.lua.org/" target="_blank">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" width="60" height="60"/>
             </a>
-            <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" target="_blank">
+            <a href="https://www.gnu.org/software/bash/" target="_blank">
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2KKbij-vaM7uwKs7w7uRV3OGczoTnecAhpg&s" alt="Bash" width="60" height="60"/>
+            </a>
+            <a href="https://go.dev/" target="_blank">
+                <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Flutter" width="60" height="60"/>
+            </a>
+            <a href="https://flutter.dev/" target="_blank">
+                <img src="https://img.icons8.com/color/512/flutter.png" alt="Flutter" width="60" height="60"/>
             </a>
         </td>
     </tr>
