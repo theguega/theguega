@@ -16,6 +16,7 @@
                     <li>Built a cross-platform application for drone swarm management (Flutter).</li>
                     <li>Integrated a LLM for drone control (Rust, Docker, macOS sys-admin).</li>
                     <li>Configured drone networking and services for ModalAI and Parrot Anafi AI (Systemd, Ansible, Bash)</li>
+                    <li>Designed and implemented multi-level drone operations, including standalone execution, Gazebo simulation, and outdoor demonstrations.</li>
                     <li>Learn more:<a href="https://www.thalesgroup.com/en/worldwide/defence-and-security/press_release/thales-demonstrates-its-capacity-deploy-drone-swarms" target="_blank">
                     Thales demonstrates its capacity to deploy drone swarms with unparalleled levels of autonomy using AI
                 </a></li>
