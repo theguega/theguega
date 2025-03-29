@@ -70,6 +70,22 @@
             <a href="https://github.com/theguega/Local-LLM-WebServer"><img src="https://github.com/theguega/Local-LLM-WebServer/blob/main/frontend/public/favico.png" alt="Project Image" style="max-width: 100%; height: auto; object-fit: cover;"></a>
         </td>
     </tr>
+    <tr>
+    <td style="width: 65%;">
+        <h3>LeRobot - Robotic Arm</h3>
+        <p>
+            A personal project inspired by <a href="https://huggingface.co/lerobot" target="_blank">huggingface/lerobot</a>, aiming to learn robotics and reinforcement learning.
+            <ul>
+                <li>Building upon the open-source foundation of LeRobot.</li>
+                <li>Implementing reinforcement learning algorithms for dexterous manipulation.</li>
+                <li>Exploring inverse kinematics and motion planning.</li>
+            </ul>
+        </p>
+    </td>
+    <td style="text-align: center;">
+        <a href="https://huggingface.co/lerobot"><img src="https://github.com/huggingface/lerobot/blob/main/media/so100/leader_follower.webp?raw=true" alt="Project Image" style="max-width: 100%; height: auto; object-fit: cover;"></a>
+    </td>
+</tr>
 </table>
 
 <br>
@@ -102,28 +118,13 @@
             <a href="https://www.linux.org/" target="_blank">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
             </a>
-            <a href="https://www.mathworks.com/" target="_blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="60" height="60"/>
-            </a>
-            <a href="https://www.lua.org/" target="_blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" width="60" height="60"/>
-            </a>
-            <a href="https://www.gnu.org/software/bash/" target="_blank">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2KKbij-vaM7uwKs7w7uRV3OGczoTnecAhpg&s" alt="Bash" width="60" height="60"/>
-            </a>
-            <a href="https://go.dev/" target="_blank">
-                <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Flutter" width="60" height="60"/>
-            </a>
-            <a href="https://flutter.dev/" target="_blank">
-                <img src="https://img.icons8.com/color/512/flutter.png" alt="Flutter" width="60" height="60"/>
-            </a>
         </td>
     </tr>
 </table>
 
 ---
 
-<h3>Actual courses i'm following : </h3>
+<h3>Actual courses I'm following:</h3>
 
 - [Writing An Interpreter In Go | Thorsten Ball](https://interpreterbook.com/)
 - [The Adventures of OS: Making a RISC-V Operating System using Rust | Stephen Marz](https://osblog.stephenmarz.com/index.html)
