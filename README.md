@@ -118,6 +118,21 @@
             <a href="https://www.linux.org/" target="_blank">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
             </a>
+            <a href="https://www.lua.org/" target="_blank">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" width="60" height="60"/>
+            </a>
+            <a href="https://go.dev/" target="_blank">
+                <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go" width="60" height="60"/>
+            </a>
+            <a href="https://flutter.dev/" target="_blank">
+                <img src="https://img.icons8.com/color/512/flutter.png" alt="Flutter" width="60" height="60"/>
+            </a>
+            <a href="https://www.gnu.org/software/bash/" target="_blank">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="60" height="60"/>
+            </a>
+            <a href="https://www.java.com/" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+            </a>
         </td>
     </tr>
 </table>
