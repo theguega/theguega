@@ -12,7 +12,7 @@
 
 I'm a Computer Engineering student specializing in **Embedded Computing and Autonomous Systems**. I’m passionate about building innovative systems where **hardware meets intelligent software**.
 
-🔍 I’m currently looking for a **6-month robotics internship**, where I can apply my skills in:
+🔍 I’m currently looking for a **6-month robotics internship**, from **February** to **July** 2026 where I can apply my skills in:
 - ⚙️ Embedded software (C, C++, Rust, Python)
 - 🤖 Control systems & autonomous robotics
 - 🧠 Real-time computing, embedded Linux, and bare-metal systems
