@@ -2,6 +2,7 @@
 
 <p align="center">
   <i>Computer Engineering Student | Embedded Systems & Robotics Enthusiast</i><br>
+  <i>University of Waterloo, Canada</i><br>
   <i>Université de Technologie de Compiègne, France</i>
 </p>
 
