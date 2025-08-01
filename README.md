@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://theguega.github.io/dioxus-portfolio/">Theo Guegan</a></h1>
 
 <p align="center">
-  <i>Computer Engineering Student | Embedded Systems & Robotics Enthusiast</i><br>
+  <i>Engineering Student in Computer Science | Embedded Systems & Robotics Enthusiast</i><br>
   <i>University of Waterloo, Canada</i><br>
   <i>Université de Technologie de Compiègne, France</i>
 </p>
@@ -38,7 +38,7 @@ I'm a Computer Engineering student specializing in **Embedded Computing and Auto
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" style="height:40px; width:40px; object-fit:contain;" alt="Rust"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" style="height:40px; width:40px; object-fit:contain;" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" style="height:40px; width:40px; object-fit:contain;" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" style="height:40px; width:40px; object-fit:contain;" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" style="height:40px; width:40px; object-fit:contain;" alt="Lua"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:40px; width:40px; object-fit:contain;" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="height:40px; width:40px; object-fit:contain;" alt="Go"/>
