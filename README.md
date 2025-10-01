@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://theguega.github.io/dioxus-portfolio/">Theo Guegan</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://theguega.github.io/robotics-portfolio/">Theo Guegan</a></h1>
 
 <p align="center">
   <i>Engineering Student in Computer Science | Embedded Systems & Robotics Enthusiast</i><br>
@@ -22,18 +22,15 @@ I'm a Computer Engineering student specializing in **Embedded Computing and Auto
 
 📁 **Portfolio**
 
-- 🌐 <a href="https://theguega.github.io/dioxus-portfolio/">My Portfolio</a>
+- 🌐 <a href="https://theguega.github.io/robotics-portfolio/">Discover my projects</a>
 
 ---
 
 📫 **How to reach me**
 
-- ✉️ theo.guegan@etu.utc.fr  
 - 💼 [LinkedIn](https://www.linkedin.com/in/guegan-theo)
 
 ---
-
-🧰 **Tech Stack**
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" style="height:40px; width:40px; object-fit:contain;" alt="Rust"/>
