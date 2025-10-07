@@ -8,7 +8,7 @@
 
 🎯 **About Me**
 
-I'm a Computer Engineering student specializing in **Embedded Computing and Autonomous Systems**. I’m passionate about building innovative systems where **hardware meets intelligent software**.
+Building software for autonomous systems from swarm robotics to self-driving vehicles—using modern C++, Rust, Python, and real-time embedded platforms. Passionate about turning complex algorithms into robots that shape the future.
 
 ---
 
