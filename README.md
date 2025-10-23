@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://theguega.github.io/robotics-portfolio/">Theo Guegan</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://theguega.github.io/personal/">Theo Guegan</a></h1>
 
 <p align="center">
   <i>Engineering Student in Computer Science | Embedded Systems & Robotics Enthusiast</i><br>
