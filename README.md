@@ -8,7 +8,9 @@
 
 🎯 **About Me**
 
-Building software for autonomous systems from swarm robotics to self-driving vehicles—using modern C++, Rust, Python, and real-time embedded platforms. Passionate about turning complex algorithms into robots that shape the future.
+I'm a Robotics Software Engineer student passionate about building the next generation of intelligent machines. My work bridges real-time software and AI, combining C++, Python, and Rust to create autonomous systems that operate safely and efficiently in the real world.
+
+My goal is to push the boundary between robotics and intelligence, contributing to the development of tomorrow’s robots that think and act with true autonomy.
 
 ---
 
