@@ -8,9 +8,9 @@
 
 🎯 **About Me**
 
-I'm a Robotics Software Engineer student passionate about building the next generation of intelligent machines. My work bridges real-time software and AI, combining C++, Python, and Rust to create autonomous systems that operate safely and efficiently in the real world.
+I’m completing my Master’s in Computer Engineering with a focus on robotics and intelligent systems. 
 
-My goal is to push the boundary between robotics and intelligence, contributing to the development of tomorrow’s robots that think and act with true autonomy.
+I enjoy building robots end to end — from the embedded code that moves them to the machine learning models that make them think. My goal is to develop reliable, real-world systems that connect hardware and intelligence.
 
 ---
 
