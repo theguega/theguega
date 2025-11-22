@@ -1,6 +1,6 @@
 # Hi, I'm <a href="https://theguega.github.io/personal/">Theo Guegan</a> 👋
 
-I’m completing my Master’s in Computer Engineering (UWaterloo – Canada | UTC – France) with a focus on robotics and intelligent systems.
+I’m completing my Master’s in Computer Engineering with a focus on robotics and intelligent systems.
 
 I enjoy building robots end to end : from the embedded code that moves them to the machine learning models that make them think.
 
