@@ -2,7 +2,7 @@
 
 I’m completing my Master’s in Computer Engineering with a focus on robotics and intelligent systems.
 
-I enjoy building robots end to end : from the embedded code that moves them to the machine learning models that make them think.
+I enjoy building robots from the embedded code that moves them to the machine learning models that make them think.
 
 My goal is to make robotics open and accessible to everyone, connecting hardware and intelligence through systems that inspire people to experiment, learn, and build real robots.
 
