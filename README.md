@@ -19,7 +19,7 @@ Currently, I’m exploring VLAs and embodied intelligence at a robotics startup 
 ---
 
 <p align="center">
-  <a href="https://theguega.github.io/personal/" target="_blank">
+  <a href="https://theguega.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;
