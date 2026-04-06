@@ -1,4 +1,4 @@
-# Hi, I'm <a href="https://theguega.github.io/portfolio/">Theo Guegan</a> 🤖
+# Hi, I'm <a href="https://theguega.github.io/me/">Theo Guegan</a> 🤖
 
 I enjoy building robots from the embedded code that moves them to the machine learning models that make them think.
 
@@ -6,20 +6,32 @@ My goal is to make robotics open and accessible to everyone, connecting hardware
 
 # Experience
 
-🚀 **Hackathons**  
-Participated in the **SWARM Hackathon 2025**, where we designed a swarm robotics concept for future space exploration using the **HeRo 2.0 platform**. Earned **2nd place among 100 participants** for technical depth and vision.
+🤖 **Machine Learning Engineer - Stealth Startup, Palo Alto, CA**  
+CEO : Claire Delaunay.
+- ML : Vision models, VLAs. 
+- SWE : Tools and infra for Robotics.
 
-🛩️ **Drone Software Engineer - Thales, France**  
-Built a **real-time embedded Lua engine** in C++ for drone scripting, reducing mission prototyping time by **4×**.  
-Integrated a local LLM (in Rust) for **natural-language drone commands**.
+🛩️ **Drone Software Engineer : Thales LAS, Paris, France**  
+- SWE : Embedded LUA script engine, drone swarm orchestration, drone 
+- AI : Local LLM inference optimisation
 
-🤖 **Machine Learning - Palo Alto, CA**  
-Currently, I’m exploring VLAs and embodied intelligence at a robotics startup in Palo Alto.
+🚗 **Autonomous vehicle control lead : UTonome, Compiegne, France**  
+- Led the development of the control stack (homogenous waypoint-based control law).
+- Demonstrate Adaptivate cruise control, navigation and static obstacle avoidance in both sim and real env. 
+
+🚀 **Hackathons**
+- [UTAC Autonomous vehicle challenge (France) : best school award 2024 | won 2025 edition](https://www.utac.com/challenge-utac)
+- FIT Coding Challenge 2025 (Bosnia)
+- UTC x st2i hackathon (France) : winners
+- [SWARM, The World’s Largest Swarm Robotics Hackathon (Canada)](https://luma.com/7xkp31u4)
+- [Mistral AI Worldwide Hackathon 2026: build the next era of AI (San Francisco)](https://luma.com/mistralhack-sanfrancisco?tk=5OVyT1)
+- [Seeed 2026 Embodied AI Hackathon in Santa Clara : won 2nd prize](https://luma.com/zsaa3r3d?tk=BmAVah)
+- [RoboHacks : NASA, Deepmind, YC (San Francisco)](https://luma.com/robohacks-at-YC?tk=2BHGQB)
 
 ---
 
 <p align="center">
-  <a href="https://theguega.github.io/portfolio/" target="_blank">
+  <a href="https://theguega.github.io/me/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;
