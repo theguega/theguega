@@ -1,4 +1,4 @@
-# Hi, I'm <a href="https://theguega.github.io/me/">Theo</a> 🤖
+# Hi, I'm <a href="https://theguega.github.io/me/">Theo</a>
 
 I enjoy building robots from the embedded code that moves them to the machine learning models that make them think.
 
