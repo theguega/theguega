@@ -8,9 +8,9 @@ To put it another way: `java -Xmx1024M -jar ~/Downloads/minecraft.jar`..
 
 # Actual position :
 
-🤖 **Machine Learning Engineer - Stealth Startup, Redwood City, CA**  
+🤖 **Machine Learning Engineer - Opalin**  
 CEO : Claire Delaunay.
 - ML : Vision models, VLAs. 
-- SWE : Tools and infra for Robotics.
+- SWE : Tools, infra, firmware for Robotics.
 
 I’m always down for a coffee talk about robotics, AI, or open-source software!
