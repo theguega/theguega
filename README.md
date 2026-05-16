@@ -8,9 +8,8 @@ To put it another way: `java -Xmx1024M -jar ~/Downloads/minecraft.jar`..
 
 # Actual position :
 
-🤖 **Machine Learning Engineer - Opalin**  
-CEO : Claire Delaunay.
-- ML : Vision models, VLAs. 
-- SWE : Tools, infra, firmware for Robotics.
+🤖 **Embodied AI Engineer - [Opalin](https://opalin.ai/)**
+- ML : Vision models, WAMs, VLAs. 
+- SWE : Tools, infra, firmware, control for Robotics.
 
 I’m always down for a coffee talk about robotics, AI, or open-source software!
